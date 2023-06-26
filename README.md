@@ -1,1 +1,9 @@
 # CS370
+
+The code provided included starter code and a sample environment for the pirate agent. I was responsible for creating the deep Q-learning algorithm to train the pirate agent. This involved completing the Q-Training Algorithm section in the Jupyter Notebook, following the specifications given. The algorithm needed to use reinforcement learning to determine the path to the treasure by the pirate agent.
+
+Throughout the project, I had to apply industry standard best practices, ensure code functionality, and use in-line comments for readability and maintainability.
+
+In addition to creating the intelligent agent, I also needed to write a design defense to explain my approach, how the agent works, and evaluate the chosen algorithm. The design defense required me to analyze the differences between human and machine approaches to solving problems, describe the steps a human would take to solve the maze, describe the steps the intelligent agent takes to solve the pathfinding problem, and discuss the similarities and differences between the two approaches. I also had to assess the purpose of the intelligent agent in pathfinding, explain the concepts of exploitation and exploration, determine the ideal proportion of exploitation and exploration for this problem, and discuss how reinforcement learning helps the agent find the path to the treasure. Additionally, I evaluated the use of algorithms to solve complex problems and explained how deep Q-learning using neural networks was implemented for this game.
+
+By completing this project, I applied my knowledge and skills in AI concepts, pathfinding algorithms, reinforcement learning, and deep Q-learning. I demonstrated the ability to design and develop an intelligent agent capable of solving a pathfinding problem in a gaming environment. My work contributed to enhancing the gameplay experience and providing a challenging opponent for the human player.
